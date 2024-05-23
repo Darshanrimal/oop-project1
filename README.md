@@ -1,2 +1,2 @@
-# oop-project1
+student management system
 oop project1
